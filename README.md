@@ -2,7 +2,7 @@
 ## Table of contents - NERO
 <table>
 <tr><th>No:</th><th>Topic</th><th>Description</th><th>Links</th></tr>
-<tr><td>1.</td><td><a href="https://www.tutorialspoint.com/git/index.htm">Python</a></td><td>module 'gamepy' is used</td><td><a href="https://www.tutorialspoint.com/git/index.htm">Links</a></td></tr>
+<tr><td>1.</td><td><a href="https://www.tutorialspoint.com/python/index.htm">Python</a></td><td>module 'gamepy' is used</td><td><a href="https://www.tutorialspoint.com/git/index.htm">Links</a></td></tr>
 <tr><td>2.</td><td><a href="https://www.tutorialspoint.com/postgresql/index.htm">Postgre</a></td><td>'blob','bytea' module is used from postgre for deep learning</td><td><a href="https://github.com/EtricKombat/NERO/blob/master/documents_postgre.md">Link</a></td></tr>
 </table>
 

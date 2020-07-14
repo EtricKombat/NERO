@@ -1,4 +1,4 @@
-# Posgre articles
+# PostgreSQL Articles
 <table>
 <tr><th>No:</th><th>Topic</th><th>Description</th><th>Links</th></tr>
 <tr><td>1.</td><td><a href="https://www.kaggle.com/">kaggle</a></td><td>this is an open data setwe want to extract data about the datasetwe are compiling tables on relevant open data sets/td><td><a href="https://www.kaggle.com/moltean/fruits/metadata">Link</a></td></tr>

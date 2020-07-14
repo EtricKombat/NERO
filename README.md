@@ -1,5 +1,8 @@
 
-## Table of contents - NERO
+# NERO 
+
+## Table of contents
+
 <table>
 <tr><th>No:</th><th>Topic</th><th>Description</th><th>Links</th></tr>
 <tr><td>1.</td><td><a href="https://www.tutorialspoint.com/python/index.htm">Python</a></td><td>module 'gamepy' is used</td><td><a href="https://www.tutorialspoint.com/git/index.htm">Links</a></td></tr>

@@ -12,14 +12,8 @@ RUN apt-get install -qqy x11-apps -y
 COPY . /app
 WORKDIR /app
 
-RUN DEBIAN_FRONTEND="noninteractive" apt-get -y install tzdata
-RUN apt-get install systemd -y
-RUN timedatectl set-timezone Asia/Kolkata
-
-
-
-
-RUN apt-get install python3-tk -y
-RUN pip3 install -r requirements.txt
+RUN pip3 install pygame
 ENTRYPOINT ["python"]
 CMD ["main.py"]
+
+#sudo docker run -e DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --user="$(id --user):$(id --group)" nirupamjm/njmaxc

@@ -3,10 +3,11 @@ SCREEN_WIDTH = 1100
 
 SCREEN_SIZE = (SCREEN_WIDTH, SCREEN_HEIGHT)
 
-ORIGINAL_CAPTION = "Welcome to Allripe"
+ORIGINAL_CAPTION = "Welcome to CHULLIKKATTU FARM HOUSE"
 
 # Colors 
 # 	           R    G    B
+
 GRAY = (100, 100, 100)
 NAVYBLUE = (60, 60, 100)
 WHITE = (255, 255, 255)
@@ -110,7 +111,7 @@ coord_start = {
     'roomtype8': [180, 350, 850, 350]
 }
 Room_dict = {
-    'WelcomeArea': ('Welcome Area', 'roomtype1'),
+    'WelcomeArea': ('Wet Land', 'roomtype1'),
 
     'SeeingRoom': ('Seeing Room', 'roomtype2'),
 

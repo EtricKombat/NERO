@@ -54,6 +54,6 @@ def hear( screen):
 
 def gameMenu(screen, event):
 
-        button("who are you?", 350, 700, 200, 50, c.COMBLUE, c.SKY_BLUE, screen, event, "see1")
+        button("who are you?, i'm Kane", 350, 700, 200, 50, c.COMBLUE, c.SKY_BLUE, screen, event, "see1")
         button("What room is this? ", 650, 700, 250, 50, c.COMBLUE, c.SKY_BLUE, screen, event, "hear1")
 
